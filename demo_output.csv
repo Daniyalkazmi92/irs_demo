@@ -1,0 +1,2 @@
+org_name,EIN,officer_name,officer_title,tax_preparer_name,tax_preparer_firm,filing_url,error
+American Red Cross,131624102,,,,,https://s3.amazonaws.com/irs-form-990/202240579349301004_public.xml,XML download failed
